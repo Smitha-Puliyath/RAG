@@ -1,0 +1,104 @@
+﻿disease,medicine_name,major_ingredients,demand_week
+Hypertension,Cardiozol AM,Amlodipine; Atenololol,1
+Diabetes Mellitus,Gluco XR,Metforminydydrate; Sugarformin,2
+Asthmama,BreathEase Plus,Salbutamamol; Wheezeprine,3
+Common Cold,Coldnil Forte,Paracetamolide; Histaminex,4
+Fever,PyroEase Forte,Acetaminol; Thermazinecin,5
+Migraine,Headoclear Forte,Analgeneine; AcheAway,6
+Arthritis,Jointiva Prime,Rheumatol; Elixirol,7
+Allergy,Histaclear Fast,Placebex; Fexofaux,8
+Gastritis,GastroZen Max,Dummycillin; Mockprazole,9
+Depression,Moodora Lite,Serotofake; Calmzepam,10
+Anxiety,Calmigen Plus,Tranquilax; Pretendol,11
+Insomniaia,Somnirest Night,Dozopam; Placebanol,12
+Bronchitis,BronchoRelief,Mockamycin; Ventolair,13
+Flu,InfluFree Tabs,Viracalm; Acetaminol,14
+Acne,Dermapret Gel,Fakecycline; Clearoderm,15
+Osteoporosis,Bonevia Forte,Calciplol; Shamplium,16
+Thyroid Disease,Thyroquelin XR,Levotend; Mockthyrox,17
+Eczemama,AirEase Forte,Fauxmeterol; Bronchitol,18
+High Cholesterol,Lipidrolose Plus,Statinolin; Lipitorin,19
+Constipation,LaxaMock Syrive,Placebalax; Fibertine,20
+Diarrhea,Stoploose Forte,Mockfloxacin; Antidiarol,21
+Sinemia,HemoIron Forte,Ferrousulfate; Hemofix,22
+Vitamin Dness,NeuroMock Plus,Pretendalin; Brainazinex,23
+Back Pain,CardiEase Ultra,Coronax; Shambutamol,24
+Kidney Stones,Renafaux Tabs,Urolithin; Mocktrate,25
+Liver Disorder,HepatoAid Forte,Fabricillin; Simulase,26
+Psoriasisiasis,Dermacure Lite,Imaginex; Fakimab,27
+Otitis Ear,Audiclear Max,Shamoxil; Earban,28
+Sinusitis,NasalEase Forte,Mockicillin; Rhinase,29
+Tuberculosis,Tuberculax,Dummicin; Fauxmycin,30
+Pneumonia,Pneumocare FX,Allegraxin; Simulmycin,31
+Covidabetes,SugarNo More,Metforminide; Pretendformin,32
+Hepatitis,Hepavirra Plus,Fauxvir; Mockinterferer,33
+Malaria,AntiMala Forte,Placeboquine; Quasinine,34
+Gout,GoutAway XR,Pseudouric; Antiuride,35
+Obesitron,TrimFast Max,Fabricutol; Mockburn,36
+Eczemock,Skinova Gel,Dermafaux; Simulcort,37
+Vertigone,DizzyLess Plus,Mockizine; Rotatrol,38
+Parkinsim,NeuroMove Aid,Shamopar; Pretendopa,39
+Alzheimera,MemoSure Lite,Fauxpezil; Brainitolol,40
+Ulcer,Ulcergone Forte,Acidophane; Mockidine,41
+Sciatica,Nervex Flex,Neurofaux; Simulax,42
+Dengue,DenguCure FX,Fauxviren; Mockvir,43
+Malnutrition,NutriPlus Gold,Vitafake; Placeholderol,44
+Appendicitis,AppendoRelief,Simulmycin; Fauxprofen,45
+Pancreatitis,Pancrea Heal,Dummydol; Pretendase,46
+Fibion,VisionClear XR,Mockoptin; Retinax,47
+Cataraction,Lensify Forte,Optifaux; Clearazinein,48
+Glaucomia,EyeGuard Plus,Imagilol; Simuloptic,49
+Herpesthesia,Virafend Max,Fauxcyclovir; Mockvirase,50
+Chickenpox,Poxnil Forte,Dummyvir; Simulcillin,51
+Measlette,RashAway Lite,Fauxrubin; Mockles,52
+Mumpss,SkinMend Plus,Pretenderm; Simulgel,1
+Poliovirus,NeuroShield FX,Fabricol; Dummyvax,2
+Rabidness,Rabicure Prime,Mockglobin; Fauxvac,3
+Leukemix,Hemoguard Forte,Imaginin; Pretendocyte,4
+Lymphomia,Lymphocax XR,Dummab; Placebocin,5
+Sepsimune,InfectoStop Plus,Fauxcillin; Simulmycin,6
+Coviditis,PainDrop Forte,Acetafen; Mockaflam,7
+Tonsillax,ThroatRelief Max,Fauxicillin; Simulcillin,8
+Fibchemia,Cardioorm XR,Mockvasc; Pretendolol,9
+Arrhythmix,RhythmEase Plus,Dummicor; Fauxlol,10
+COPDummy,BreathFlow Lite,Simulair; Mockoterol,11
+Fibromockia,PainCalm XR,Placeboxetine; Fauxentin,12
+Sclerosisia,NeuroShield Forte,Mockinteron; Pretendex,13
+Cirrhosimix,Hepacure Plus,Fauxhep; Simulase,14
+Gallstonia,BilioEase Tabs,Mockbile; Dummyacid,15
+Hemophiliax,ClotSure Forte,Fabriclott; Fauxfactor,16
+Myopinion,MuscleMend Lite,Pretendolide; Simulflex,17
+Lupusia,ImmunoEase XR,Dummabine; Fauxcort,18
+Sarcasmosis,MuscleTone Plus,Mockpro; Pretendine,19
+Encephalonitis,BrainCare Forte,Imagibrain; Simulox,20
+Meningitix,NeuroGuard Max,Fauxcillin; Mockicillin,21
+Typhoid Fever,Typhicure XR,Dummicin; Pretendmycin,22
+Cholestrolitis,Lipidrol Plus,Mockstat; Fauxesterol,23
+Retinopathy,EyeProtect Prime,Simulvision; Pretendoptic,24
+Neuropraxia,NerveAid Forte,Fauxgab; Mockapentin,25
+Dermatitis,SkinRelief XR,Hydrofake; Simulcort,26
+Conjunctivix,EyeFresh Lite,Mockdrops; Fauxclear,27
+Laryngitis,VoiceCare Plus,Dummythroat; Pretendazole,28
+Pleurisync,ChestEase Max,Fauxresp; Mockair,29
+Bursitron,JointCare FX,Simulfen; Pretendrox,30
+Myelitix,SpineGuard Forte,Mocksporin; Fauxmed,31
+Rhinitix,NasoFree Spray,Dummyphrineol; Pretendrine,32
+Pharyngoid,ThroatFix XR,Mockzole; Simulon,33
+Colitica,GutRestore Plus,Fauxbiotic; Pretenderm,34
+Enteritix,DigestAid Max,Dummyflora; Simulzyme,35
+Candidiasis,HeartStrong Lite,Mockpril; Fauxsartan,36
+Nephrosis,RenaGuard Prime,Simulkid; Pretendurin,37
+Cystitis,CystoCare Plus,Fauxfurantoin; Mockcin,38
+Prostatix,ProstoEase Forte,Dummypro; Simulase,39
+Endometrioma,GynoCare Forte,Fauxhorm; Pretendin,40
+Amenesia Syndrome,ImmunoFix XR,Mockglob; Simulant,41
+Bronchitron,AirMend Lite,Pretendair; Fauxcort,42
+Hypermockia,PressoCalm Plus,Dummylol; Simulpril,43
+Hypotensia,VasoLift Forte,Fauxpress; Mockamine,44
+Arteriosis,CardioGuard FX,Placebopril; Simulvasc,45
+Thrombosis,ClotAway Prime,Mockxaban; Fauxaban,46
+Gingivox,DentoCare Forte,Dummydent; Pretendpaste,47
+Periodontix,Gumafe Gel,Fauxmint; Mockoral,48
+Labyrinthitis,LipHeal Max,Simulbalm; Pretendcream,49
+Hiccoughitis,HicStop XR,Mocktone; Fauxzap,50
+knee transplant,arthroplasty,anesthesia; postoperative diagnostics, 51
